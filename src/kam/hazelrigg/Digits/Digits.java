@@ -1,4 +1,4 @@
-package kam.hazelrigg;
+package kam.hazelrigg.Digits;
 
 import java.util.ArrayList;
 import java.util.Collection;
